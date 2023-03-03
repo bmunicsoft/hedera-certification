@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/bomalkevych/Documents/me/git/hedera-certification-1/contracts/certificationC3.sol": {
+      "lastModificationDate": 1677858655493,
+      "contentHash": "94e1df017cbe7100ee672bdbba79f13f",
+      "sourceName": "contracts/certificationC3.sol",
+      "solcConfig": {
+        "version": "0.8.15",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.15"
+      ],
+      "artifacts": [
+        "CertificationC1"
+      ]
+    }
+  }
+}
